@@ -1,0 +1,5 @@
+names: [bait, snapper, blue_cod, other, empty]
+nc: 5
+path: /Users/alteafogh/Documents/ITU/fshh/Yolo_freeze/fish/training_data
+train: train.txt
+val: valid.txt
